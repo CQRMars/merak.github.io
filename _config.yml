@@ -15,10 +15,10 @@ keywords: ityouknow,天璇Mars,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docke
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: merak/merak.github.io
+github_url: https://github.com/merak
+url: http://www.merak.com
+enforce_ssl: merak.com
 
 ## Gem
 plugins:
